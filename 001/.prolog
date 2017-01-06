@@ -1,3 +1,6 @@
+% time(problem1(_)).
+%   5,318 inferences, 0.000 CPU in 0.000 seconds (99% CPU, 11923767 Lips)
+
 problem1(Result) :-
     mul_sum(1000,3,3,5,0,Result).
 
